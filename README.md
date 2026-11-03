@@ -142,7 +142,7 @@ print(
 
 ## Output:
 
-<img width="1076" height="778" alt="image" src="https://github.com/user-attachments/assets/4c8c1107-cbd1-4d49-b98d-53ca8ca6921d" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/4c8c1107-cbd1-4d49-b98d-53ca8ca6921d" />
 
 
 
